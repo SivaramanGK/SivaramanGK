@@ -43,40 +43,6 @@ I enjoy working with data, building dashboards, automating repetitive business p
 
 ## 💼 Featured Projects
 
-### 📦 LogiPack Pro — 3D Container Loading Optimizer
-
-A Python-based logistics optimization system designed to improve container space utilization.
-
-**Key Features**
-
-* 📦 3D container visualization
-* 📊 Container utilization analysis
-* ⚖️ Weight constraint handling
-* 🧩 Multi-SKU pallet optimization
-* 📐 Intelligent pallet positioning
-* 🤖 Optimization strategies
-* 📈 Utilization reporting
-
-**Tech:** Python • Tkinter • Pandas • NumPy • Matplotlib
-
----
-
-### 📄 Shipping Bill Validator & OCR Automation
-
-An automation tool for extracting and validating information from shipping documents.
-
-**Features**
-
-* PDF data extraction
-* OCR processing
-* Excel validation
-* Invoice / BL / Shipping Bill processing
-* Automated IGST extraction
-* Excel report generation
-
-**Tech:** Python • OCR • PyPDF2 • pdfplumber • OpenPyXL • Pandas
-
----
 
 ### 📊 Business Intelligence Dashboards
 
@@ -105,6 +71,24 @@ Actionable Insights
 ```
 
 ---
+### 📄 Shipping Bill Validator & OCR Automation
+
+An automation tool for extracting and validating information from shipping documents.
+
+**Features**
+
+* PDF data extraction
+* OCR processing
+* Excel validation
+* Invoice / BL / Shipping Bill processing
+* Automated IGST extraction
+* Excel report generation
+
+**Tech:** Python • OCR • PyPDF2 • pdfplumber • OpenPyXL • Pandas
+
+---
+
+
 
 ## 🎯 Currently Exploring
 
