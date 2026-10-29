@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sivaraman Ganesan
+#  Hi, I'm Sivaraman Ganesan
 
 ### 📊 Data Analyst | BI & Dashboard Developer | Python Automation
 
